@@ -10,7 +10,7 @@ public class Dice{
 	return value;
 	}
 
-    public void getValue(int value){
+    public void setValue(int value){
 	this.value = value;
     }
 
